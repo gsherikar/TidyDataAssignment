@@ -1,6 +1,6 @@
 # Introduction
 
-This data set contains measurements taken from smart phones capable of capturing data from Human Activity Recognition using variety of signals sensors. 
+This data set contains measurements taken from smart phones capable of capturing data from Human Activity Recognition using variety of signals sensors. The file has been prepared without row names from R language using write.table command (row.names=FALSE). It may be best to open the file in a large text editor like Textpad. Notepad may not show the data as well as something like Textpad. If you choose to import the data into a spreadsheet like Excel importing a text file with space as delimiter and double quotes as Text qualifier will work
 
 ## RT		1
 	A total of 86 different types of measurements recorded for each subject and activity
